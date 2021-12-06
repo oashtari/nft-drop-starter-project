@@ -66,6 +66,18 @@ const App = () => {
         <div className="header-container">
           <p className="header">Get your 🐕 NFTs here!</p>
           <p className="sub-text">🐕  NFT drop machine with fair mint</p>
+
+          <p className="instructions">Hi, if you're new to web3/blockchain/crypto/NFTs, please do the following:</p>
+          <p className="instructions">1. Go here and downlown the <a href="https://phantom.app/download">Phantom browser extension</a>, you'll need this to *mint* your new Gunner NFT.</p>
+          <p className="instructions">If you're curious about Phantom, have a look here: <a href="https://phantom.app">Phantom</a></p>
+          <p className="instructions">Phantom is a wallet for the <a href="https://solana.com/">Solana blockchain.</a>, it is needed so you can use SOL to mint the NFT.</p>
+          <p className="instructions">We will be using the Solana devnet, so you don't need actual money for this minting.</p>
+          <br></br>
+
+
+          <p className="instructions">2. <a href="https://help.phantom.app/hc/en-us/articles/4406388623251-How-to-create-a-new-wallet">Create new wallet and save seed phrase.</a></p>
+          <p className="instructions">3. <a href="https://help.phantom.app/hc/en-us/articles/4406393831187-How-to-deposit-SOL">Fund your account with SOL.</a></p>
+          
           {!walletAddress && renderNotConnectedContainer()}
         </div>
         {walletAddress && <CandyMachine walletAddress={window.solana} />}
