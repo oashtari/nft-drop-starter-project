@@ -1,0 +1,19 @@
+{
+    "name": "irritated_gunner",
+    "symbol": "",
+    "image": "5.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "5.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "49SiwcLiHGvKpuQJbYX537RdGFP54z22h7Fn1EJJXFNZ",
+          "share": 100
+        }
+      ]
+    }
+  }

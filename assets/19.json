@@ -1,0 +1,19 @@
+{
+    "name": "pretzel_gunner",
+    "symbol": "",
+    "image": "19.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "19.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "49SiwcLiHGvKpuQJbYX537RdGFP54z22h7Fn1EJJXFNZ",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -35,7 +35,7 @@
 }
 
 .sub-text {
-  font-size: 25px;
+  font-size: 15px;
 }
 
 .gradient-text {
@@ -59,7 +59,7 @@
 
 .connect-wallet-button {
   color: white;
-  background: -webkit-linear-gradient(left, #ff8867, #ff52ff);
+  background: -webkit-linear-gradient(left, #c94420, #4f52f7);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
 }

@@ -1,0 +1,19 @@
+{
+    "name": "skeptical_gunner",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "49SiwcLiHGvKpuQJbYX537RdGFP54z22h7Fn1EJJXFNZ",
+          "share": 100
+        }
+      ]
+    }
+  }

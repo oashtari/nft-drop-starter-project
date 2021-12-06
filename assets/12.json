@@ -1,0 +1,19 @@
+{
+    "name": "winded_gunner",
+    "symbol": "",
+    "image": "12.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "12.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "49SiwcLiHGvKpuQJbYX537RdGFP54z22h7Fn1EJJXFNZ",
+          "share": 100
+        }
+      ]
+    }
+  }

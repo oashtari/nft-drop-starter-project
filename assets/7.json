@@ -1,0 +1,19 @@
+{
+    "name": "sunbathing_gunner",
+    "symbol": "",
+    "image": "7.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "7.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "49SiwcLiHGvKpuQJbYX537RdGFP54z22h7Fn1EJJXFNZ",
+          "share": 100
+        }
+      ]
+    }
+  }

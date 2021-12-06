@@ -1,0 +1,19 @@
+{
+    "name": "tired_gunner",
+    "symbol": "",
+    "image": "8.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "8.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "49SiwcLiHGvKpuQJbYX537RdGFP54z22h7Fn1EJJXFNZ",
+          "share": 100
+        }
+      ]
+    }
+  }

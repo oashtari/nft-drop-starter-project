@@ -365,7 +365,6 @@ const CandyMachine = ({ walletAddress }) => {
   };
 
 
-
   return (
     machineStats && (
     <div className="machine-container">
