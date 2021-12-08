@@ -74,10 +74,16 @@ const App = () => {
           <p className="instructions">We will be using the Solana devnet, so you don't need actual money for this minting.</p>
           <br></br>
 
-
           <p className="instructions">2. <a href="https://help.phantom.app/hc/en-us/articles/4406388623251-How-to-create-a-new-wallet">Create new wallet and save seed phrase.</a></p>
-          <p className="instructions">3. <a href="https://help.phantom.app/hc/en-us/articles/4406393831187-How-to-deposit-SOL">Fund your account with SOL.</a></p>
+          <br></br>
           
+          <p className="instructions">3. <a href="https://solfaucet.com/">Go here and fund your account with SOL. </a>A good number to start with is 5 SOL, not sure it will allow more than that.</p>
+          <p className="instructions">You will need your Phantom wallet address, you can retrieve it by opening the browser extention, hover to the top over your address, and just click it, it will copy it to your clipboard.</p>
+          <p className="instructions">Make sure to pick 'Devnet' so it airdrops the fake SOL into the correct place.</p>
+          <br></br>
+
+          <p className="instructions">Hopefully this works 🤞 -- enjoy our Gunner NFT!</p>
+                    
           {!walletAddress && renderNotConnectedContainer()}
         </div>
         {walletAddress && <CandyMachine walletAddress={window.solana} />}
