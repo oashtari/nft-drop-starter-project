@@ -68,18 +68,19 @@ const App = () => {
           <p className="sub-text">🐕  NFT drop machine with fair mint</p>
 
           <p className="instructions">Hi, if you're new to web3/blockchain/crypto/NFTs, please do the following:</p>
-          <p className="instructions">1. Go here and downlown the <a href="https://phantom.app/download">Phantom browser extension</a>, you'll need this to *mint* your new Gunner NFT.</p>
-          <p className="instructions">If you're curious about Phantom, have a look here: <a href="https://phantom.app">Phantom</a></p>
-          <p className="instructions">Phantom is a wallet for the <a href="https://solana.com/">Solana blockchain.</a>, it is needed so you can use SOL to mint the NFT.</p>
-          <p className="instructions">We will be using the Solana devnet, so you don't need actual money for this minting.</p>
+          <p className="instructions">1.<a href="https://phantom.app/download">Download the Phantom browser extension</a>, you'll need this to *mint* your new Gunner NFT.</p>
+          <p className="instructions">More information about <a href="https://phantom.app">Phantom</a></p>
+          <p className="instructions">Phantom is a trusted wallet for the <a href="https://solana.com/">Solana blockchain.</a>.</p>
+          <p className="instructions">We will be using the Solana devnet, so you don't need actual 💰 for this minting.</p>
           <br></br>
 
           <p className="instructions">2. <a href="https://help.phantom.app/hc/en-us/articles/4406388623251-How-to-create-a-new-wallet">Create new wallet and save seed phrase.</a></p>
           <br></br>
           
-          <p className="instructions">3. <a href="https://solfaucet.com/">Go here and fund your account with SOL. </a>A good number to start with is 5 SOL, not sure it will allow more than that.</p>
-          <p className="instructions">You will need your Phantom wallet address, you can retrieve it by opening the browser extention, hover to the top over your address, and just click it, it will copy it to your clipboard.</p>
-          <p className="instructions">Make sure to pick 'Devnet' so it airdrops the fake SOL into the correct place.</p>
+          <p className="instructions">3. <a href="https://solfaucet.com/">Go here and fund your account with SOL. </a>You will need no more than 5 SOL.</p>
+          <p className="instructions">You will need your Phantom wallet address, you can retrieve it by opening the browser extention.</p>
+          <p className="instructions">Hover to the top over your address, and just click it, it will copy it to your clipboard.</p>
+          <p className="instructions">Click the 'settings' icon in the lower right, change your network to 'Devnet' so it airdrops the fake SOL into the correct place.</p>
           <br></br>
 
           <p className="instructions">Hopefully this works 🤞 -- enjoy our Gunner NFT!</p>
